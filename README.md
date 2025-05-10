@@ -1,1 +1,1 @@
-# NeuroNexus-Innovations
+Prediction on titanic survival
